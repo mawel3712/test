@@ -1,0 +1,29 @@
+/*Laptop */
+@media(max-width: 1200px){
+	body{
+		background: red;
+	}
+}
+
+/*Small tablet */
+@media(max-width: 979px){
+	body{
+		background: blue;
+	}
+}
+
+/*Tablet of Smartphone */
+@media(max-width: 767px){
+	body{
+		background: green;
+	}
+}
+
+/*Smartphone */
+@media(max-width: 480px){
+	body{
+		background: orange;
+	}
+}
+
+/* */
