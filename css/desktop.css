@@ -1,17 +1,19 @@
 /* Al Media Queries and Desktop CSS */
 
-header, footer {
-background: #eee;
-
-
+background {
+	background: #3285A6;
 }
 
 header, footer {
-background: #eee;
-
-
+	background: #A3BFDB;
 }
 
+.logo{
+	margin-top: 20px;
+}
 
+.holiday {
+margin-top: 60px;
+}
 /* */
 

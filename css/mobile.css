@@ -1,28 +1,28 @@
 /*Laptop */
 @media(max-width: 1200px){
-	body{
-		background: red;
+	header, footer{
+		background: #A3BFDB ;
 	}
 }
 
 /*Small tablet */
 @media(max-width: 979px){
-	body{
-		background: white;
+	header, footer{
+		background: #77BDD9;
 	}
 }
 
 /*Tablet of Smartphone */
 @media(max-width: 767px){
-	body{
-		background: green;
+	header, footer{
+		background: #459DBF;
 	}
 }
 
 /*Smartphone */
 @media(max-width: 480px){
-	body{
-		background: orange;
+	header, footer{
+		background: #3285A6;
 	}
 }
 

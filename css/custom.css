@@ -26,7 +26,7 @@ In the starting CSS document, styles are based on custom classes not in Bootstra
 }
 .siteinfo a {
 	text-decoration: none;
-	color: #999;
+	color: ##333333;
 	font-size: 0.8em;
 }
 .siteinfo a:hover {
@@ -37,13 +37,13 @@ In the starting CSS document, styles are based on custom classes not in Bootstra
 /* Chapter 2 challenge/solution: styling thumbnails and modals */
 
 .btn-primary { 
-    background-color: #602F8D; 
+    background-color: #2E78A6; 
     border-color: #602F8D; 
 }  
 .btn-primary:hover, 
 .btn-primary:focus,  
 .btn-primary:active { 
-    background-color: #53297A; 
+    background-color: #A3BFDB; 
 } 
 .modal-body .pull-left { 
     padding-right: 1em; 
@@ -58,7 +58,7 @@ In the starting CSS document, styles are based on custom classes not in Bootstra
 /* panel styling for the home page */
 
 .panel-primary .panel-heading {
-	background-color: #602F8D;
+	background-color: #2E78A6;
 	border-color: #602F8D;
 }
 .panel {
@@ -85,11 +85,7 @@ tagline font size, alignment, and padding for larger dimensions.
 	.logo {
 		text-align: left;
 	}
-	.tagline {
-		font-size: 2em;
-		text-align: right;
-		padding-top: 1.6em;
-	}
+
 	form {
 		width: 750px;
 		margin: 0 auto;
